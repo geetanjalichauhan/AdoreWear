@@ -1,0 +1,16 @@
+.internet-error {
+  height: 60px;
+  background: #228b22;
+  margin-top: 0;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.internet-error p {
+  font-size: 25px;
+  line-height: 60px;
+  color: #fff;
+  margin: 0;
+}
